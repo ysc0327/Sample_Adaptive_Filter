@@ -412,14 +412,6 @@ always @(posedge clk, posedge reset) begin
 		wen <= 1;
 	end
 end
-
-wire [7:0] test1 = din_r[0];
-wire [7:0] test2 = din_r[16];
-wire [7:0] test3 = din_r[32];
-wire [7:0] test4 = din_r[1];
-wire [7:0] test5 = din_r[2];
-wire [7:0] test6 = din_r[3];
-
 		
 reg [7:0] sram_data_in;
 always @(posedge clk, posedge reset) begin
