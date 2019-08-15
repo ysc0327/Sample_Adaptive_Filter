@@ -143,11 +143,6 @@ always @(posedge clk, posedge reset) begin
 		busy_cnt <= 0;
 end
  
-
-
-
-
-
 always @(posedge clk, posedge reset) begin	
 	if(reset)
 		busy_d <= 0;
@@ -324,7 +319,6 @@ end
 					   				   
 assign din_ver = ver_eo_keep ? ver_din_1 : (ver_din_1 + {{4{ver_eo_offset[3]}}, ver_eo_offset});
 					   
-
 //
 reg hor_eo_keep;					   
 wire signed [8:0] hor_sub_1;
@@ -430,13 +424,4 @@ assign finish = (p_state == S_FINISH);
 sram_16384x8 golden_sram (.Q( ), .CLK(clk), .CEN(cen), .WEN(wen), .A(sram_addr), .D(sram_data_in)); 
 
 endmodule
-
-
-
-
-
-
-
-
-
 
