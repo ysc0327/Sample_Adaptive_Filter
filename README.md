@@ -4,7 +4,7 @@ of the deblocking filter (DB filter), based on values in look-up tables transmit
 
 ---------------------------------------------------------------
 
-If you have some suggestion, E-mail to me, thanks a lot.
+If you have some suggestion, e-mail to me, thanks a lot.
 
 ----------------------------------------------------------------
 
