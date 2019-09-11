@@ -1,5 +1,5 @@
 # Sample Adaptive Filter
-SAO is a process that modifies each pixel which needs to add an offset value, based on values in look-up tables(LUT) transmitted by the encoder.
+SAO is a process that modifies each pixel which needs to add an offset value, based on values in look-up table (LUT) transmitted by the encoder.
 
 Reference : 
 1. Author : laplaceyc
