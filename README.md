@@ -8,6 +8,7 @@ Reference :
 ---------------------------------------------------------------
 # Filter result
 Use OpenCV & Numpy to show the image. 
+
 ![image](https://github.com/ysc0327/Sample_Adaptive_Filter/blob/master/SAO_result.JPG)
 
 ---------------------------------------------------------------
