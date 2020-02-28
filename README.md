@@ -7,7 +7,7 @@ Reference :
 
 ---------------------------------------------------------------
 # Filter result
-![image](https://github.com/ysc0327/Sample_Adaptive_Filter/blob/master/SAO_result.JPG)
+
 
 ---------------------------------------------------------------
 
