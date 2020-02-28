@@ -10,9 +10,7 @@ Use OpenCV & Numpy to show the image.
 ---------------------------------------------------------------
 
 If you have some suggestion, e-mail to me, thanks a lot.
-
 My e-mail : dance84327@gmail.com
-
 
 Reference : 
 1. Author : laplaceyc
