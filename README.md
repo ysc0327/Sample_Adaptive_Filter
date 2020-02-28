@@ -6,6 +6,10 @@ Reference :
 2. Wiki (SAO algorithm)
 
 ---------------------------------------------------------------
+# Filter result
+![image](https://github.com/ysc0327/Sample_Adaptive_Filter/blob/master/SAO_result.JPG)
+
+---------------------------------------------------------------
 
 If you have some suggestion, e-mail to me, thanks a lot.
 
