@@ -3,7 +3,8 @@ SAO is a process that modifies each pixel which needs to add an offset value, ba
 
 ---------------------------------------------------------------
 # Filter result
-Use OpenCV & Numpy to show the image. 
+Use OpenCV & Numpy to show the image.
+ 
 Picture size : 128x128 gray image (each pixel range : 0~255).
 
 ![image](https://github.com/ysc0327/Sample_Adaptive_Filter/blob/master/SAO_result.JPG)
